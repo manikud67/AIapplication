@@ -45,3 +45,5 @@ else:
     else:
         print("Prime number")
 
+
+print("New line added")
